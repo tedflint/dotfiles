@@ -1,2 +1,2 @@
 # dotfiles
-This iw where I store my configuration information
+This is where I store my configuration information
