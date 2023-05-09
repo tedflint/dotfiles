@@ -1,0 +1,2 @@
+;;; Generated package description from org-noter-pdftools.el  -*- no-byte-compile: t -*-
+(define-package "org-noter-pdftools" "20220320.300" "Integration between org-pdftools and org-noter" '((emacs "26.1") (org "9.4") (pdf-tools "0.8") (org-pdftools "1.0") (org-noter "1.4.1")) :commit "c88130c90aac5a4759849df86fb1829db183bed4" :authors '(("Alexander Fu Xi" . "fuxialexander@gmail.com")) :maintainer '("Alexander Fu Xi" . "fuxialexnader@gmail.com") :keywords '("convenience") :url "https://github.com/fuxialexander/org-pdftools")

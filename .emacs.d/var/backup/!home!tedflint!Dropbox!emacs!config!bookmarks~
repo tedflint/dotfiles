@@ -1,0 +1,120 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("my-personal-phrasebook.txt"
+ (filename . "~/Dropbox/universe/room-study-dropbox/desk-italian/my-personal-phrasebook.txt")
+ (front-context-string . "#+TITLE:My perso")
+ (rear-context-string)
+ (position . 1))
+("org-capture-last-stored"
+ (filename . "~/Dropbox/universe/zettelkasten/20230418213807-germany.org")
+ (front-context-string)
+ (rear-context-string . "+title: germany\n")
+ (position . 85))
+("books-reading-and-read.org"
+ (filename . "~/Dropbox/universe/room-study-dropbox/library/books-reading-and-read.org")
+ (front-context-string)
+ (rear-context-string . "* The White Road")
+ (position . 179))
+("Recent files (automatically generated)"
+ (filename . "~/Dropbox/emacs/config/recent-files.txt")
+ (front-context-string . "[[/home/tedflint")
+ (rear-context-string)
+ (position . 1))
+("scratchpad-for-today.txt"
+ (filename . "/home/tedflint/Desktop/scratchpad-for-today.txt")
+ (front-context-string . "#+OPTIONS: autho")
+ (rear-context-string)
+ (position . 1))
+("youtube-index.txt"
+ (filename . "~/Dropbox/easy-view/youtube-index.txt")
+ (front-context-string . "\n#+OPTIONS: toc:")
+ (rear-context-string . "+STARTUP: folded")
+ (position . 76))
+("work-partnership.txt"
+ (filename . "~/Dropbox/universe/room-office-dropbox/desk-hattie/")
+ (front-context-string)
+ (rear-context-string . "or Claire' boxes")
+ (position . 16600))
+("project-ideas-and-notes.org"
+ (filename . "~/Dropbox/universe/room-naturalists-study-dropbox/wildlife-group/river-deverill-project/project-ideas-and-notes.org")
+ (front-context-string)
+ (rear-context-string . "l-clear-ebble/]]")
+ (position . 833))
+("canonical-chronology.org"
+ (filename . "~/Dropbox/universe/room-office-dropbox/canonical-chronology.org")
+ (front-context-string . "* 1960\n** Januar")
+ (rear-context-string)
+ (position . 1))
+("org-refile-last-stored"
+ (filename . "~/Dropbox/universe/room-control-room/scratchpad.org")
+ (front-context-string . "*** [2021-02-26 ")
+ (rear-context-string . "\n** Org-capture\n")
+ (position . 9316))
+(".bash_functions"
+ (filename . "~/Dropbox/emacs/config/.bash_functions")
+ (front-context-string)
+ (rear-context-string . "csclient -c $1\n\n")
+ (position . 136))
+("plant-taxa-ST83.org"
+ (filename . "~/Dropbox/universe/room-naturalists-study-dropbox/plant-taxa-ST83.org")
+ (front-context-string . "* Ferns\n** Asple")
+ (rear-context-string)
+ (position . 1))
+("Literate bash commands"
+ (filename . "~/Dropbox/universe/room-hackerspace-dropbox/bash/literate-bash-commands.org")
+ (front-context-string . "#+end_src\n\n#+RES")
+ (rear-context-string . "dmap ~/.xmodmap\n")
+ (position . 150))
+("people-and-dates.org"
+ (filename . "~/Dropbox/universe/room-study-dropbox/desk-history/people-and-dates.org")
+ (front-context-string . "| Pericles      ")
+ (rear-context-string)
+ (position . 1))
+(".bashrc"
+ (filename . "~/.bashrc")
+ (front-context-string . "# ~/.bashrc: exe")
+ (rear-context-string)
+ (position . 1))
+("finances.org"
+ (filename . "~/Dropbox/universe/room-office-dropbox/desk-finances/finances.org")
+ (front-context-string . "---FINANCES---\n\n")
+ (rear-context-string)
+ (position . 1))
+("Summary of our finances 2022"
+ (filename . "~/Dropbox/universe/room-office-dropbox/desk-finances/finances.org")
+ (front-context-string . "---FINANCES---\n\n")
+ (rear-context-string)
+ (position . 1))
+("forecast.org"
+ (filename . "~/Dropbox/universe/room-office-dropbox/desk-village-hall/forecast.org")
+ (front-context-string . "#+ATTR_LATEX: :e")
+ (rear-context-string)
+ (position . 1))
+("maintenance.org"
+ (filename . "~/Dropbox/universe/room-office-dropbox/desk-village-hall/maintenance.org")
+ (front-context-string . "\n\n|-------------")
+ (rear-context-string)
+ (position . 1))
+("Ideas"
+ (filename . "~/Dropbox/universe/zettelkasten/20210801190646-ideas.org")
+ (front-context-string)
+ (rear-context-string . "hey have before.")
+ (position . 7431))
+("Main agenda file"
+ (filename . "~/Dropbox/emacs/org/agenda.org")
+ (front-context-string . "\n\n* Village Hall")
+ (rear-context-string . "TARTUP: overview")
+ (position . 50))
+("Todo list"
+ (filename . "~/Dropbox/emacs/org/todo.org")
+ (front-context-string . "* TODO Contact W")
+ (rear-context-string)
+ (position . 1))
+("Emacs configuration"
+ (filename . "~/Dropbox/emacs/config/literate-emacs-config.org")
+ (front-context-string . "* Bookmarks\n#+be")
+ (rear-context-string . "aved\n#+end_src\n\n")
+ (position . 43377))
+)

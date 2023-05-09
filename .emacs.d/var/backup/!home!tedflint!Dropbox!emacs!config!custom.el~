@@ -1,0 +1,41 @@
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(auto-save-default nil)
+ '(calendar-date-style 'european)
+ '(connection-local-criteria-alist
+   '(((:application eshell)
+      eshell-connection-default-profile)) t)
+ '(connection-local-profile-alist
+   '((eshell-connection-default-profile
+      (eshell-path-env-list))) t)
+ '(custom-safe-themes
+   '("e01db763cd9daa56f75df8ebd057f84017ae8b5f351ec90c96c928ad50f3eb25" "28eb6d962d45df4b2cf8d861a4b5610e5dece44972e61d0604c44c4aad1e8a9d" "31f1723fb10ec4b4d2d79b65bcad0a19e03270fe290a3fc4b95886f18e79ac2f" "6c98bc9f39e8f8fd6da5b9c74a624cbb3782b4be8abae8fd84cbc43053d7c175" default))
+ '(display-buffer-base-action
+   '((display-buffer-reuse-window display-buffer-same-window)
+     (reusable-frames . t)))
+ '(even-window-sizes nil)
+ '(org-agenda-compact-blocks t)
+ '(org-agenda-files
+   '("/home/tedflint/Dropbox/emacs/org/agenda.org" "/home/tedflint/Dropbox/emacs/org/todo.org"))
+ '(org-agenda-format-date "%a %d %b")
+ '(org-agenda-span 'fortnight)
+ '(org-agenda-start-on-weekday nil)
+ '(org-agenda-time-grid
+   '(nil
+     (800 1000 1200 1400 1600 1800 2000)
+     "......" "----------------"))
+ '(org-latex-compiler "pdflatex")
+ '(package-selected-packages
+   '(modus-themes sudo-edit exec-path-from-shell vterm cider clojure-mode better-defaults htmlize elpher w3m org-noter-pdftools org-pdftools org-noter pdf-tools ox-reveal consult marginalia orderless vertico firecode-theme racket-mode geiser-racket l paredit geiser-guile transpose-frame green-screen-theme green-is-the-new-black-theme plantuml-mode elfeed-goodies yasnippet-snippets yasnippet lsp-jedi pomodoro magit projectile company lsp-mode counsel ivy all-the-icons peep-dired which-key visual-fill-column use-package typescript-mode rainbow-delimiters pyvenv python-mode perspective org-roam org-bullets olivetti no-littering lsp-ui lsp-treemacs lsp-ivy ivy-rich ivy-prescient helpful forge eterm-256color eshell-git-prompt emms-state elfeed doom-themes doom-modeline dired-single dired-open dash-functional counsel-projectile company-box command-log-mode auto-package-update all-the-icons-dired))
+ '(peep-dired-ignored-extensions '("mkv" "iso" "mp4" "jpg" "jpeg" "png" "bmp"))
+ '(persp-state-default-file "~/Dropbox/emacs/config/perspective-state")
+ '(warning-suppress-types '((comp))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
